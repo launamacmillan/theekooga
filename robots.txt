@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pereexoza.pediatra-jozefow.pl/sitemap.xml
